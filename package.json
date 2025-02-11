@@ -1,0 +1,19 @@
+{
+  "name": "kosciol_is_streaming",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isStreaming.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2",
+    "node-html-parser": "^6.1.5",
+    "nodemailer": "^6.9.4"
+  }
+}
